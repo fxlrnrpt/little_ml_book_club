@@ -20,4 +20,4 @@ Hello fellow ML geeks, my name is Andrey and I am terrible at scaling my LLM tra
 
 | Date | Topic | Slides | Recording |
 |------|-------|--------|-----------|
-| 31 Oct, 2025 | Ultra-scale playbook - Ch.1 First Steps: Training on One GPU | [slides](./ultra_scale_playbook/little_ml_book_club_ultra_scale_playbook_ch1_first_steps_training_on_one_gpu.pdf) | [recording](https://www.youtube.com/watch?v=hkGYk0wYUho) |
+| 30 Oct, 2025 | Ultra-scale playbook - Ch.1 First Steps: Training on One GPU | [slides](./ultra_scale_playbook/little_ml_book_club_ultra_scale_playbook_ch1_first_steps_training_on_one_gpu.pdf) | [recording](https://www.youtube.com/watch?v=hkGYk0wYUho) |
