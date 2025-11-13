@@ -6,10 +6,10 @@ Hello fellow ML geeks, my name is Andrey and I am terrible at scaling my LLM tra
 - Read a chapter from [the list](https://docs.google.com/spreadsheets/d/157L7VW-2M1KcwJoRtzadagpJ7LOpos338oEwj8kp2XQ/edit?usp=sharing).  
 - Jump on a call once a week on Thursdays at 14:00 (London time) - [calendar with meeting invites](https://calendar.google.com/calendar/u/2?cid=ZTM4ZmMwYTM5MDhmZjkwNjcwY2EyZDRlNmQzYThjODZmM2I2NzZkMzZiNWExNzc4NWY3MTE4NTk3MDJkNWJlYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 - Take part in the discussion and learn  something.
-- Message here if you want to present one of the chapters (pretty pretty pretty please!)
+- Message in the chat if you want to present one of the chapters (pretty pretty pretty please!)
 - All slides will be uploaded here
 
-**First call**: October 30 (Thursday), 14:00 (London time)
+**Calls**: Each Thursday at 14:00 (London time)
 
 **Important links**:
 - [Schedule](https://docs.google.com/spreadsheets/d/157L7VW-2M1KcwJoRtzadagpJ7LOpos338oEwj8kp2XQ/edit?usp=sharing)
@@ -20,5 +20,6 @@ Hello fellow ML geeks, my name is Andrey and I am terrible at scaling my LLM tra
 
 | Date | Topic | Slides | Recording |
 |------|-------|--------|-----------|
+| 13 Nov, 2025 | Ultra-scale playbook - Ch.3 Model Parallelism \[ZERO:\] | [slides](./ultra_scale_playbook/little_ml_book_club_ultra_scale_playbook_ch3_data_parallelism_from_zero.pdf) | [recording](https://youtu.be/EmG0X4jlT-I) |
 | 06 Nov, 2025 | Ultra-scale playbook - Ch.2 Data Parallelism \[:ZERO\] | [slides](./ultra_scale_playbook/little_ml_book_club_ultra_scale_playbook_ch2_data_parallelism_until_zero.pdf) | [recording](https://youtu.be/rNOFnI8eb3w) |
 | 30 Oct, 2025 | Ultra-scale playbook - Ch.1 First Steps: Training on One GPU | [slides](./ultra_scale_playbook/little_ml_book_club_ultra_scale_playbook_ch1_first_steps_training_on_one_gpu.pdf) | [recording](https://www.youtube.com/watch?v=hkGYk0wYUho) |
