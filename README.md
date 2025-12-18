@@ -20,6 +20,7 @@ Hello fellow ML geeks, my name is Andrey and I am terrible at scaling my LLM tra
 
 | Date | Topic | Slides | Recording |
 |------|-------|--------|-----------|
+| 18 Dec, 2025 | Ultra-scale playbook - Ch.6 Expert Parallelism | [slides](https://miro.com/app/board/uXjVGZ0oBHg=/?share_link_id=999507213216) | [recording](https://youtu.be/NrncobFYSNU) |
 | 11 Dec, 2025 | Ultra-scale playbook - Ch.5 Pipeline Parallelism | [slides](./ultra_scale_playbook/little_ml_book_club_ultra_scale_playbook_ch5_pipeline_parallelism.pdf) | [recording](https://youtu.be/2XiiqaKNN7A) |
 | 4 Dec, 2025 | Ultra-scale playbook - Ch.4 Context Parallelism | [slides](https://miro.com/app/board/uXjVJgwADLc=/?share_link_id=523862753642) | [recording](https://youtu.be/o0EwPE1Kvds) |
 | 27 Nov, 2025 | Ultra-scale playbook - Ch.3.2 Sequence Parallelism | [slides](./ultra_scale_playbook/little_ml_book_club_ultra_scale_playbook_ch3_sequence_parallelism.pdf) | [recording](https://youtu.be/agvfEfoENnI) |
