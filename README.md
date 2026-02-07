@@ -10,13 +10,6 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 - Slides will be uploaded to this repo, recording uploaded to Youtube
 - **Join the chat for important announcements and discussion:** [Discord](https://discord.gg/EAKP4k4Y), [Telegram](https://t.me/+bleQ2wfB4DBjMGZk) (anouncements will be duplicated) 
 
-- [Welcome to Little ML book club. We are reading ML books and papers. Together!](#welcome-to-little-ml-book-club-we-are-reading-ml-books-and-papers-together)
-  - [What we are reading](#what-we-are-reading)
-    - [The Ultra-Scale Playbook](#the-ultra-scale-playbook)
-      - [Schedule](#schedule)
-    - [Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems](#agentic-design-patterns-a-hands-on-guide-to-building-intelligent-systems)
-      - [Schedule](#schedule-1)
-
 ## What we are reading
 
 ### [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
