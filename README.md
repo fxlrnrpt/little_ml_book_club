@@ -41,24 +41,11 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 
 | Date | Topic | Presented by | Slides | Recording |
 |------|-------|--------------|--------|-----------|
-| 9 Feb, 2026 | Chapter 1: Prompt Chaining | @fxlrnrpt | -- | -- |
-| 10 Feb, 2026 | Chapter 2: Routing | @anyaepie | -- | -- |
-| 11 Feb, 2026 | Chapter 3: Parallelization | @anyaepie | -- | -- |
-| 12 Feb, 2026 | Chapter 4: Reflection | @fxlrnrpt | -- | -- |
-| 13 Feb, 2026 | Chapter 5: Tool Use | @fxlrnrpt | -- | -- |
-| 16 Feb, 2026 | Chapter 6: Planning | -- | -- | -- |
-| 17 Feb, 2026 | Chapter 7: Multi-Agent | -- | -- | -- |
-| 18 Feb, 2026 | Chapter 8: Memory Management | -- | -- | -- |
-| 19 Feb, 2026 | Chapter 9: Learning and Adaptation | -- | -- | -- |
-| 20 Feb, 2026 | Chapter 10: MCP | -- | -- | -- |
-| 23 Feb, 2026 | Chapter 11: Goal Setting and Monitoring | -- | -- | -- |
-| 24 Feb, 2026 | Chapter 12: Exception Handling and Recovery | -- | -- | -- |
-| 25 Feb, 2026 | Chapter 13: Human-in-the-Loop | -- | -- | -- |
-| 26 Feb, 2026 | Chapter 14: RAG | -- | -- | -- |
-| 27 Feb, 2026 | Chapter 15: A2A | -- | -- | -- |
-| 2 Mar, 2026 | Chapter 16: Resource-Aware Optimization | -- | -- | -- |
-| 3 Mar, 2026 | Chapter 17: Reasoning Techniques | -- | -- | -- |
-| 4 Mar, 2026 | Chapter 18: Guardrails/Safety Patterns | -- | -- | -- |
-| 5 Mar, 2026 | Chapter 19: Evaluation and Monitoring | -- | -- | -- |
-| 6 Mar, 2026 | Chapter 20: Prioritization | -- | -- | -- |
-| 9 Mar, 2026 | Chapter 21: Exploration and Discovery  | -- | -- | -- |
+| 9 Feb, 2026 | Chapter 1: Prompt Chaining | @fxlrnrpt | [slides](agentic_design_patterns/ch1_prompt_engineering.pdf) | [recording](https://youtu.be/VuLqbxPjmfI) |
+| 11 Feb, 2026 | Chapters 2-4: Routing, Parallelization, Reflection | @anyaepie | -- | -- |
+| 13 Feb, 2026 | Chapters 5-7: Tool Use, Planning, Multi-Agent | @fxlrnrpt | -- | -- |
+| 16 Feb, 2026 | Chapters 8-10: Memory Management, Learning and Adaptation, MCP | -- | -- | -- |
+| 18 Feb, 2026 | Chapters 11-13: Goal Setting and Monitoring, Exception Handling and Recovery, Human-in-the-Loop | -- | -- | -- |
+| 20 Feb, 2026 | Chapters 14-16: RAG, A2A, Resource-Aware Optimization | -- | -- | -- |
+| 23 Feb, 2026 | Chapters 17-19: Reasoning Technique, Guardrails/Safety Patterns, Evaluation and Monitoring | -- | -- | -- |
+| 25 Feb, 2026 | Chapters 20-21: Prioritization, Exploration and Discovery | -- | -- | -- |
