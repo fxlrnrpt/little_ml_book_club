@@ -42,10 +42,10 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 | Date | Topic | Presented by | Slides | Recording |
 |------|-------|--------------|--------|-----------|
 | 9 Feb, 2026 | Chapter 1: Prompt Chaining | @fxlrnrpt | -- | -- |
-| 10 Feb, 2026 | Chapter 2: Routing | -- | -- | -- |
-| 11 Feb, 2026 | Chapter 3: Parallelization | -- | -- | -- |
-| 12 Feb, 2026 | Chapter 4: Reflection | -- | -- | -- |
-| 13 Feb, 2026 | Chapter 5: Tool Use | -- | -- | -- |
+| 10 Feb, 2026 | Chapter 2: Routing | @anyaepie | -- | -- |
+| 11 Feb, 2026 | Chapter 3: Parallelization | @anyaepie | -- | -- |
+| 12 Feb, 2026 | Chapter 4: Reflection | @fxlrnrpt | -- | -- |
+| 13 Feb, 2026 | Chapter 5: Tool Use | @fxlrnrpt | -- | -- |
 | 16 Feb, 2026 | Chapter 6: Planning | -- | -- | -- |
 | 17 Feb, 2026 | Chapter 7: Multi-Agent | -- | -- | -- |
 | 18 Feb, 2026 | Chapter 8: Memory Management | -- | -- | -- |
