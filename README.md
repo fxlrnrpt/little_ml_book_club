@@ -35,7 +35,7 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 
 ### [Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns)
 
-**Cadence:** every weekday at 15:00 (London time) - [calendar with meeting invites](https://calendar.google.com/calendar/u/0?cid=ZTM4ZmMwYTM5MDhmZjkwNjcwY2EyZDRlNmQzYThjODZmM2I2NzZkMzZiNWExNzc4NWY3MTE4NTk3MDJkNWJlYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+**Cadence:** Mon, Wed, Fri at 15:00 (London time) - [calendar with meeting invites](https://calendar.google.com/calendar/u/0?cid=ZTM4ZmMwYTM5MDhmZjkwNjcwY2EyZDRlNmQzYThjODZmM2I2NzZkMzZiNWExNzc4NWY3MTE4NTk3MDJkNWJlYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 #### Schedule
 
