@@ -33,12 +33,10 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 |------|-------|--------------|--------|-----------|
 | 9 Feb, 2026 | Chapter 1: Prompt Chaining | @fxlrnrpt | [slides](agentic_design_patterns/ch1_prompt_engineering.pdf) | [recording](https://youtu.be/VuLqbxPjmfI) |
 | 11 Feb, 2026 | Chapters 2-4: Routing, Parallelization, Reflection | @anyaepie | [slides](agentic_design_patterns/ch2-4_routing_parallelization_reflection.pdf) | [recording](https://youtu.be/vE_ppkPsn9k) |
-| 13 Feb, 2026 | Chapters 5-7: Tool Use, Planning, Multi-Agent | @fxlrnrpt | -- | -- |
-| 16 Feb, 2026 | Chapters 8-10: Memory Management, Learning and Adaptation, MCP | @anyaepie | -- | -- |
-| 18 Feb, 2026 | Chapters 11-13: Goal Setting and Monitoring, Exception Handling and Recovery, Human-in-the-Loop | -- | -- | -- |
-| 20 Feb, 2026 | Chapters 14-16: RAG, A2A, Resource-Aware Optimization | -- | -- | -- |
-| 23 Feb, 2026 | Chapters 17-19: Reasoning Technique, Guardrails/Safety Patterns, Evaluation and Monitoring | -- | -- | -- |
-| 25 Feb, 2026 | Chapters 20-21: Prioritization, Exploration and Discovery | -- | -- | -- |
+| 13 Feb, 2026 | Chapters 5-7: Tool Use, Planning, Multi-Agent | @fxlrnrpt | [slides](agentic_design_patterns/ch5-7_tool_use_planning_multi_agent.pdf) | [recording](https://youtu.be/-P2hEWgyOpk) |
+| 16 Feb, 2026 | Chapters 8-12: Memory Management, Learning and Adaptation, MCP, Goal Setting and Monitoring, Exception Handling and Recovery | @anyaepie | -- | -- |
+| 18 Feb, 2026 | Chapters 13-16, 18: Human-in-the-Loop, Guardrails/Safety Patterns, RAG, A2A, Resource-Aware Optimization | @fxlrnrpt | -- | -- |
+| 23 Feb, 2026 | Chapters 17, 19-21: Reasoning Technique, Evaluation and Monitoring, Prioritization, Exploration and Discovery | -- | -- | -- |
 
 
 ## What we have read in the past
