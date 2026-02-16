@@ -34,8 +34,8 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 | 9 Feb, 2026 | Chapter 1: Prompt Chaining | @fxlrnrpt | [slides](agentic_design_patterns/ch1_prompt_engineering.pdf) | [recording](https://youtu.be/VuLqbxPjmfI) |
 | 11 Feb, 2026 | Chapters 2-4: Routing, Parallelization, Reflection | @anyaepie | [slides](agentic_design_patterns/ch2-4_routing_parallelization_reflection.pdf) | [recording](https://youtu.be/vE_ppkPsn9k) |
 | 13 Feb, 2026 | Chapters 5-7: Tool Use, Planning, Multi-Agent | @fxlrnrpt | [slides](agentic_design_patterns/ch5-7_tool_use_planning_multi_agent.pdf) | [recording](https://youtu.be/-P2hEWgyOpk) |
-| 16 Feb, 2026 | Chapters 8-12: Memory Management, Learning and Adaptation, MCP, Goal Setting and Monitoring, Exception Handling and Recovery | @anyaepie | -- | -- |
-| 18 Feb, 2026 | Chapters 13-16, 18: Human-in-the-Loop, Guardrails/Safety Patterns, RAG, A2A, Resource-Aware Optimization | @fxlrnrpt | -- | -- |
+| 16 Feb, 2026 | Chapters 8-12: Memory Management, Learning and Adaptation, MCP, Goal Setting and Monitoring, Exception Handling and Recovery | @anyaepie | [slides](agentic_design_patterns/ch8-12.pdf) | [recording](https://youtu.be/IQSYdL9B4NQ) |
+| 18 Feb, 2026 | Chapters 13-16, 18: Human-in-the-Loop, Guardrails/Safety Patterns, RAG, A2A, , Resource-Aware Optimization | @fxlrnrpt | -- | -- |
 | 23 Feb, 2026 | Chapters 17, 19-21: Reasoning Technique, Evaluation and Monitoring, Prioritization, Exploration and Discovery | -- | -- | -- |
 
 
