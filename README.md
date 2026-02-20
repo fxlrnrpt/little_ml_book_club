@@ -36,7 +36,8 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 | 13 Feb, 2026 | Chapters 5-7: Tool Use, Planning, Multi-Agent | @fxlrnrpt | [slides](agentic_design_patterns/ch5-7_tool_use_planning_multi_agent.pdf) | [recording](https://youtu.be/-P2hEWgyOpk) |
 | 16 Feb, 2026 | Chapters 8-12: Memory Management, Learning and Adaptation, MCP, Goal Setting and Monitoring, Exception Handling and Recovery | @anyaepie | [slides](agentic_design_patterns/ch8-12.pdf) | [recording](https://youtu.be/IQSYdL9B4NQ) |
 | 18 Feb, 2026 | Chapters 13-16, 18: Human-in-the-Loop, Guardrails/Safety Patterns, RAG, A2A, Resource-Aware Optimization | @julia-meshcheryakova, @fxlrnrpt | [slides1](agentic_design_patterns/ch13,17.pdf), [slides2](agentic_design_patterns/ch14-16.pdf) | [recording](https://youtu.be/zj8iqWv49Nw) |
-| 20 Feb, 2026 | Chapters 17, 19-21: Reasoning Technique, Evaluation and Monitoring, Prioritization, Exploration and Discovery | @AnCh7 | -- | -- |
+| 20 Feb, 2026 | Chapters 19-20:  Evaluation and Monitoring, Prioritization,  | @AnCh7 | [slides](https://github.com/fxlrnrpt/little_ml_book_club/blob/main/agentic_design_patterns/ch19-20.pdf) | [recording](https://youtu.be/4ANR0ccYIMY) |
+| 27 Feb, 2026 | Chapters 17, 21, Appendix | Reasoning Technique, Exploration and Discovery, Appendix | @fxlrnrpt | -- | -- |
 
 
 ## What we have read in the past
