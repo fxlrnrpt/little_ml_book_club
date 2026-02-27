@@ -15,29 +15,14 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 
 - [Welcome to Little ML book club. We are reading ML books and papers. Together!](#welcome-to-little-ml-book-club-we-are-reading-ml-books-and-papers-together)
   - [What we are reading](#what-we-are-reading)
-    - [Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems](#agentic-design-patterns-a-hands-on-guide-to-building-intelligent-systems)
-      - [Schedule](#schedule)
   - [What we have read in the past](#what-we-have-read-in-the-past)
     - [The Ultra-Scale Playbook](#the-ultra-scale-playbook)
+    - [Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems](#agentic-design-patterns-a-hands-on-guide-to-building-intelligent-systems)
 
 
 ## What we are reading
 
-### [Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns)
-
-**Cadence:** Mon, Wed, Fri at 15:00 (London time) - [calendar with meeting invites](https://calendar.google.com/calendar/u/0?cid=ZTM4ZmMwYTM5MDhmZjkwNjcwY2EyZDRlNmQzYThjODZmM2I2NzZkMzZiNWExNzc4NWY3MTE4NTk3MDJkNWJlYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-
-#### Schedule
-
-| Date | Topic | Presented by | Slides | Recording |
-|------|-------|--------------|--------|-----------|
-| 9 Feb, 2026 | Chapter 1: Prompt Chaining | @fxlrnrpt | [slides](agentic_design_patterns/ch1_prompt_engineering.pdf) | [recording](https://youtu.be/VuLqbxPjmfI) |
-| 11 Feb, 2026 | Chapters 2-4: Routing, Parallelization, Reflection | @anyaepie | [slides](agentic_design_patterns/ch2-4_routing_parallelization_reflection.pdf) | [recording](https://youtu.be/vE_ppkPsn9k) |
-| 13 Feb, 2026 | Chapters 5-7: Tool Use, Planning, Multi-Agent | @fxlrnrpt | [slides](agentic_design_patterns/ch5-7_tool_use_planning_multi_agent.pdf) | [recording](https://youtu.be/-P2hEWgyOpk) |
-| 16 Feb, 2026 | Chapters 8-12: Memory Management, Learning and Adaptation, MCP, Goal Setting and Monitoring, Exception Handling and Recovery | @anyaepie | [slides](agentic_design_patterns/ch8-12.pdf) | [recording](https://youtu.be/IQSYdL9B4NQ) |
-| 18 Feb, 2026 | Chapters 13-16, 18: Human-in-the-Loop, Guardrails/Safety Patterns, RAG, A2A, Resource-Aware Optimization | @julia-meshcheryakova, @fxlrnrpt | [slides1](agentic_design_patterns/ch13,17.pdf), [slides2](agentic_design_patterns/ch14-16.pdf) | [recording](https://youtu.be/zj8iqWv49Nw) |
-| 20 Feb, 2026 | Chapters 19-20:  Evaluation and Monitoring, Prioritization,  | @AnCh7 | [slides](https://github.com/fxlrnrpt/little_ml_book_club/blob/main/agentic_design_patterns/ch19-20.pdf) | [recording](https://youtu.be/4ANR0ccYIMY) |
-| 27 Feb, 2026 | Chapters 17, 21, Appendix | Reasoning Technique, Exploration and Discovery, Appendix | @fxlrnrpt | -- | -- |
+TBD
 
 
 ## What we have read in the past
@@ -58,3 +43,15 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 | 13 Nov, 2025 | Ch.2.2 Model Parallelism \[ZERO:\] | @fxlrnrpt | [slides](./ultra_scale_playbook/little_ml_book_club_ultra_scale_playbook_ch2_data_parallelism_from_zero.pdf) | [recording](https://youtu.be/EmG0X4jlT-I) |
 | 06 Nov, 2025 | Ch.2.1 Data Parallelism \[:ZERO\] | @fxlrnrpt | [slides](./ultra_scale_playbook/little_ml_book_club_ultra_scale_playbook_ch2_data_parallelism_until_zero.pdf) | [recording](https://youtu.be/rNOFnI8eb3w) |
 | 30 Oct, 2025 | Ch.1 First Steps: Training on One GPU | @stalkermustang | [slides](./ultra_scale_playbook/little_ml_book_club_ultra_scale_playbook_ch1_first_steps_training_on_one_gpu.pdf) | [recording](https://www.youtube.com/watch?v=hkGYk0wYUho) |
+
+### [Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns)
+
+| Date | Topic | Presented by | Slides | Recording |
+|------|-------|--------------|--------|-----------|
+| 9 Feb, 2026 | Chapter 1: Prompt Chaining | @fxlrnrpt | [slides](agentic_design_patterns/ch1_prompt_engineering.pdf) | [recording](https://youtu.be/VuLqbxPjmfI) |
+| 11 Feb, 2026 | Chapters 2-4: Routing, Parallelization, Reflection | @anyaepie | [slides](agentic_design_patterns/ch2-4_routing_parallelization_reflection.pdf) | [recording](https://youtu.be/vE_ppkPsn9k) |
+| 13 Feb, 2026 | Chapters 5-7: Tool Use, Planning, Multi-Agent | @fxlrnrpt | [slides](agentic_design_patterns/ch5-7_tool_use_planning_multi_agent.pdf) | [recording](https://youtu.be/-P2hEWgyOpk) |
+| 16 Feb, 2026 | Chapters 8-12: Memory Management, Learning and Adaptation, MCP, Goal Setting and Monitoring, Exception Handling and Recovery | @anyaepie | [slides](agentic_design_patterns/ch8-12.pdf) | [recording](https://youtu.be/IQSYdL9B4NQ) |
+| 18 Feb, 2026 | Chapters 13-16, 18: Human-in-the-Loop, Guardrails/Safety Patterns, RAG, A2A, Resource-Aware Optimization | @julia-meshcheryakova, @fxlrnrpt | [slides1](agentic_design_patterns/ch13,17.pdf), [slides2](agentic_design_patterns/ch14-16.pdf) | [recording](https://youtu.be/zj8iqWv49Nw) |
+| 20 Feb, 2026 | Chapters 19-20:  Evaluation and Monitoring, Prioritization,  | @AnCh7 | [slides](https://github.com/fxlrnrpt/little_ml_book_club/blob/main/agentic_design_patterns/ch19-20.pdf) | [recording](https://youtu.be/4ANR0ccYIMY) |
+| 27 Feb, 2026 | Chapters 17, 21, Appendix | Reasoning Technique, Exploration and Discovery, Appendix | @fxlrnrpt | [slides](agentic_design_patterns/ch17,21,Appendix.pdf) | [recording](https://youtu.be/foX95KYV38I) |
