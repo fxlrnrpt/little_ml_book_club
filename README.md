@@ -22,7 +22,13 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 
 ## What we are reading
 
-TBD
+### [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
+
+**Schedule:** every Thursday, 14:00 (London time)
+
+| Date | Topic | Presented by | Slides | Recording |
+|------|-------|--------------|--------|-----------|
+| 19 Mar, 2026 | TBD | @fxlrnrpt | | |
 
 
 ## What we have read in the past
