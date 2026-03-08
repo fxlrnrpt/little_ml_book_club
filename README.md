@@ -8,7 +8,7 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 - Listen to me talk over some slides or present yourself (pretty pretty pretty please!)
 - Take part in the discussion and learn  something.
 - Slides will be uploaded to this repo, recording uploaded to Youtube
-- **Join the chat for important announcements and discussion:** [Discord](https://discord.gg/EAKP4k4Y), [Telegram](https://t.me/+bleQ2wfB4DBjMGZk) (anouncements will be duplicated)
+- **Join the chat for important announcements and discussion:** [Discord](https://discord.gg/dsXKHF8FQZ), [Telegram](https://t.me/+bleQ2wfB4DBjMGZk) (anouncements will be duplicated)
 
 
 **Table of contents:** 
