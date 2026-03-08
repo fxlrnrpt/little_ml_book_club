@@ -15,6 +15,7 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 
 - [Welcome to Little ML book club. We are reading ML books and papers. Together!](#welcome-to-little-ml-book-club-we-are-reading-ml-books-and-papers-together)
   - [What we are reading](#what-we-are-reading)
+    - [The Smol Training Playbook: The Secrets to Building World-Class LLMs](#the-smol-training-playbook-the-secrets-to-building-world-class-llms)
   - [What we have read in the past](#what-we-have-read-in-the-past)
     - [The Ultra-Scale Playbook](#the-ultra-scale-playbook)
     - [Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems](#agentic-design-patterns-a-hands-on-guide-to-building-intelligent-systems)
