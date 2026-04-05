@@ -29,7 +29,7 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 
 | Date | Topic | Presented by | Slides | Recording |
 |------|-------|--------------|--------|-----------|
-| 19 Mar, 2026 | TBD | @fxlrnrpt | | |
+| 5 Apr, 2026 | Training Compass | @fxlrnrpt | [pdf](smol_training_playbook/1 Training Compass.pdf) | [youtube](https://youtu.be/Ly9kXopMVM0) |
 
 
 ## What we have read in the past
