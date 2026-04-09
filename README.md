@@ -30,7 +30,7 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 | Date | Topic | Presented by | Slides | Recording |
 |------|-------|--------------|--------|-----------|
 | 2 Apr, 2026 | Training Compass | @fxlrnrpt | [pdf](./smol_training_playbook/1_Training_Compass.pdf) | [youtube](https://youtu.be/Ly9kXopMVM0) |
-| 9 Apr, 2026 | Every Big Model Starts with a Small Ablation | TBD | | |
+| 9 Apr, 2026 | Every Big Model Starts with a Small Ablation | @fxlrnrpt | [pdf](./smol_training_playbook/2_Every_Big_Model_Starts_with_a_Small_Ablation.pdf) | [youtube](https://www.youtube.com/watch?v=yRg4peU1jmc) |
 | 16 Apr, 2026 | Architecture: Attention | TBD | | |
 | 23 Apr, 2026 | Architecture: Embedding Sharing, Positional Encoding and Long Context  | TBD | | |
 | 30 Apr, 2026 | Improving Stability, Additional Considerations | TBD | | |
