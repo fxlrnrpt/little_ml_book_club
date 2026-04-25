@@ -25,34 +25,34 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 
 ### [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
 
-**Schedule:** every Thursday, 14:00 (London time)
+**Schedule:** every Tuesday, 18:00 (London time)
 
 | Date | Topic | Presented by | Slides | Recording |
 |------|-------|--------------|--------|-----------|
 | 2 Apr, 2026 | Training Compass | @fxlrnrpt | [pdf](./smol_training_playbook/1_Training_Compass.pdf) | [youtube](https://youtu.be/Ly9kXopMVM0) |
 | 9 Apr, 2026 | Every Big Model Starts with a Small Ablation | @fxlrnrpt | [pdf](./smol_training_playbook/2_Every_Big_Model_Starts_with_a_Small_Ablation.pdf) | [youtube](https://www.youtube.com/watch?v=yRg4peU1jmc) |
 | 16 Apr, 2026 | Architecture: Attention | @fxlrnrpt | [pdf](./smol_training_playbook/3_Attention.pdf) | [youtube](https://youtu.be/1qgj7YqpPUY) |
-| 23 Apr, 2026 | Architecture: Embedding Sharing, Positional Encoding and Long Context  | TBD | | |
-| 30 Apr, 2026 | Improving Stability, Additional Considerations | TBD | | |
-| 7 May, 2026 | Architecture: MoE, To MoE or Not to MoE | TBD | | |
-| 14 May, 2026 | Architecture: Hybrid Models | TBD | | |
-| 21 May, 2026 | Architecture: Tokenizer | TBD | | |
-| 28 May, 2026 | Architecture: SmolLM3, Rules of Engagement | TBD | | |
-| 4 Jun, 2026 | Optimizers | TBD | | |
-| 11 Jun, 2026 | Learning Rate, Batch Size, Scaling Laws for Hyperparameters, Scaling Laws: How Many Parameters, How Much Data? | TBD | | |
-| 18 Jun, 2026 | Optimizer and Training Hyperparameters: SmolLM3, Rules of Engagement | TBD | | |
-| 25 Jun, 2026 | The Art of Data Curation | TBD | | |
-| 2 Jul, 2026 | The Training Marathon: Checklist, Scaling Surprises, Staying the Course | TBD | | |
-| 9 Jul, 2026 | The Training Marathon: Mid-training, wrapping up | TBD | | |
-| 16 Jul, 2026 | Post-Training Compass | TBD | | |
-| 23 Jul, 2026 | Post-Training: Evals, Tools | TBD | | |
-| 30 Jul, 2026 | SFT | TBD | | |
-| 6 Aug, 2026 | Prefernce optimization | TBD | | |
-| 13 Aug, 2026 | Going On-Policy and Beyond Supervised Labels | TBD | | |
-| 20 Aug, 2026 | Distillation (custom extension chapter!) | TBD | | |
-| 27 Aug, 2026 | Continuous pre-training (custom extension chapter!) | TBD | | |
-| 3 Sep, 2026 | PEFT: LoRA, prefix-tuning, etc (custom extension chapter!) | TBD | | |
-| 10 Sep, 2026 | Infrastructure | TBD | | |
+| 28 Apr, 2026 | Architecture: Embedding Sharing, Positional Encoding and Long Context  | @fxlrnrpt | | |
+| TBD | Improving Stability, Additional Considerations | TBD | | |
+| TBD | Architecture: MoE, To MoE or Not to MoE | TBD | | |
+| TBD | Architecture: Hybrid Models | TBD | | |
+| TBD | Architecture: Tokenizer | TBD | | |
+| TBD | Architecture: SmolLM3, Rules of Engagement | TBD | | |
+| TBD | Optimizers | TBD | | |
+| TBD | Learning Rate, Batch Size, Scaling Laws for Hyperparameters, Scaling Laws: How Many Parameters, How Much Data? | TBD | | |
+| TBD | Optimizer and Training Hyperparameters: SmolLM3, Rules of Engagement | TBD | | |
+| TBD | The Art of Data Curation | TBD | | |
+| TBD | The Training Marathon: Checklist, Scaling Surprises, Staying the Course | TBD | | |
+| TBD | The Training Marathon: Mid-training, wrapping up | TBD | | |
+| TBD | Post-Training Compass | TBD | | |
+| TBD | Post-Training: Evals, Tools | TBD | | |
+| TBD | SFT | TBD | | |
+| TBD | Prefernce optimization | TBD | | |
+| TBD | Going On-Policy and Beyond Supervised Labels | TBD | | |
+| TBD | Distillation (custom extension chapter!) | TBD | | |
+| TBD | Continuous pre-training (custom extension chapter!) | TBD | | |
+| TBD | PEFT: LoRA, prefix-tuning, etc (custom extension chapter!) | TBD | | |
+| TBD | Infrastructure | TBD | | |
 
 ## What we have read in the past
 
