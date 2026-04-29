@@ -32,7 +32,8 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 | 2 Apr, 2026 | Training Compass | @fxlrnrpt | [pdf](./smol_training_playbook/1_Training_Compass.pdf) | [youtube](https://youtu.be/Ly9kXopMVM0) |
 | 9 Apr, 2026 | Every Big Model Starts with a Small Ablation | @fxlrnrpt | [pdf](./smol_training_playbook/2_Every_Big_Model_Starts_with_a_Small_Ablation.pdf) | [youtube](https://www.youtube.com/watch?v=yRg4peU1jmc) |
 | 16 Apr, 2026 | Architecture: Attention | @fxlrnrpt | [pdf](./smol_training_playbook/3_Attention.pdf) | [youtube](https://youtu.be/1qgj7YqpPUY) |
-| 28 Apr, 2026 | Architecture: Embedding Sharing, Positional Encoding and Long Context  | @fxlrnrpt | | |
+| 28 Apr, 2026 | Architecture: Embedding Sharing, Intro to Positional Encoding | @fxlrnrpt | [youtube](https://www.youtube.com/watch?v=hzOP6zxg61k) | [pdf](smol_training_playbook/4_Embedding_Sharing.pdf) |
+| TBD | Positional Encoding Deep Dive and Long Context | TBD | | |
 | TBD | Improving Stability, Additional Considerations | TBD | | |
 | TBD | Architecture: MoE, To MoE or Not to MoE | TBD | | |
 | TBD | Architecture: Hybrid Models | TBD | | |
