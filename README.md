@@ -25,7 +25,7 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 
 ### [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
 
-**Schedule:** every Tuesday, 18:00 (London time)
+**Schedule:** every Tuesday, 18:00 (London time) - [Zoom](https://us06web.zoom.us/j/83386119027?pwd%3DC7HjrJsWlflDZaGroxoY2QfLqFn9Mq.1%26jst%3D2&sa=D&source=calendar&usd=2&usg=AOvVaw3ctXbbuT-SytJkANBcCsD9)
 
 | Date | Topic | Presented by | Slides | Recording |
 |------|-------|--------------|--------|-----------|
