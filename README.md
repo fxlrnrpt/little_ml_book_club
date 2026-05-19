@@ -34,26 +34,13 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 | 16 Apr, 2026 | Architecture: Attention | @fxlrnrpt | [pdf](./smol_training_playbook/3_Attention.pdf) | [youtube](https://youtu.be/1qgj7YqpPUY) |
 | 28 Apr, 2026 | Architecture: Embedding Sharing, Intro to Positional Encoding | @fxlrnrpt | [pdf](smol_training_playbook/4_Embedding_Sharing.pdf) | [youtube](https://www.youtube.com/watch?v=hzOP6zxg61k)  |
 | 12 May, 2026 | Positional Encoding Deep Dive and Long Context | @The0nix | | [youtube](https://youtu.be/biUZm-mqUDk) |
-| TBD | Improving Stability, Additional Considerations | TBD | | |
-| TBD | Architecture: MoE, To MoE or Not to MoE | TBD | | |
-| TBD | Architecture: Hybrid Models | TBD | | |
-| TBD | Architecture: Tokenizer | TBD | | |
-| TBD | Architecture: SmolLM3, Rules of Engagement | TBD | | |
-| TBD | Optimizers | TBD | | |
-| TBD | Learning Rate, Batch Size, Scaling Laws for Hyperparameters, Scaling Laws: How Many Parameters, How Much Data? | TBD | | |
-| TBD | Optimizer and Training Hyperparameters: SmolLM3, Rules of Engagement | TBD | | |
-| TBD | The Art of Data Curation | TBD | | |
-| TBD | The Training Marathon: Checklist, Scaling Surprises, Staying the Course | TBD | | |
-| TBD | The Training Marathon: Mid-training, wrapping up | TBD | | |
-| TBD | Post-Training Compass | TBD | | |
-| TBD | Post-Training: Evals, Tools | TBD | | |
-| TBD | SFT | TBD | | |
-| TBD | Prefernce optimization | TBD | | |
-| TBD | Going On-Policy and Beyond Supervised Labels | TBD | | |
-| TBD | Distillation (custom extension chapter!) | TBD | | |
-| TBD | Continuous pre-training (custom extension chapter!) | TBD | | |
-| TBD | PEFT: LoRA, prefix-tuning, etc (custom extension chapter!) | TBD | | |
-| TBD | Infrastructure | TBD | | |
+| 9 Jun, 2026 | Improving Stability, Additional Considerations, Architecture: MoE, Hybrid Models, Tokenizer | TBD | | |
+| 23 Jun, 2026 | Optimizer and Training Hyperparameters | TBD | | |
+| 30 Jun, 2026 | The Art of Data Curation | TBD | | |
+| 7 Jul, 2026 | The Training Marathon | TBD | | |
+| 14 Jul, 2026 | Post-Training Compass, Evals, Tools, SFT | TBD | | |
+| 4 Aug, 2026 | Prefernce optimization, Going On-Policy and Beyond Supervised Labels | TBD | | |
+| 11 Aug, 2026 | Infrastructure | TBD | | |
 
 ## What we have read in the past
 
