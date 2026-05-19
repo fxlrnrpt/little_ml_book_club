@@ -33,7 +33,7 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 | 9 Apr, 2026 | Every Big Model Starts with a Small Ablation | @fxlrnrpt | [pdf](./smol_training_playbook/2_Every_Big_Model_Starts_with_a_Small_Ablation.pdf) | [youtube](https://www.youtube.com/watch?v=yRg4peU1jmc) |
 | 16 Apr, 2026 | Architecture: Attention | @fxlrnrpt | [pdf](./smol_training_playbook/3_Attention.pdf) | [youtube](https://youtu.be/1qgj7YqpPUY) |
 | 28 Apr, 2026 | Architecture: Embedding Sharing, Intro to Positional Encoding | @fxlrnrpt | [pdf](smol_training_playbook/4_Embedding_Sharing.pdf) | [youtube](https://www.youtube.com/watch?v=hzOP6zxg61k)  |
-| 12 May, 2026 | Positional Encoding Deep Dive and Long Context | @The0nix | | [youtube](https://youtu.be/biUZm-mqUDk) |
+| 12 May, 2026 | Positional Encoding Deep Dive and Long Context | @The0nix | [pdf](./smol_training_playbook/5_Positional_embeddings_long_context.pdf) | [youtube](https://youtu.be/biUZm-mqUDk) |
 | 9 Jun, 2026 | Improving Stability, Additional Considerations, Architecture: MoE, Hybrid Models, Tokenizer | TBD | | |
 | 23 Jun, 2026 | Optimizer and Training Hyperparameters | TBD | | |
 | 30 Jun, 2026 | The Art of Data Curation | TBD | | |
