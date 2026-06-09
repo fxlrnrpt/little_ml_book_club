@@ -2,6 +2,8 @@
 
 Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than I want to. While I do not think I will ever reach the level of "finally good enough", I still want to learn in a good company. Join in!
 
+> **ATTENTION!** The club is currently on pause! Enjoy your summer and stay tuned for the news!
+
 **How it works**: 
 - Read a chapter from the list. 
 - Jump on a call.
