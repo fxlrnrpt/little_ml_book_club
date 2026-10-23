@@ -2,22 +2,20 @@
 
 Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than I want to. While I do not think I will ever reach the level of "finally good enough", I still want to learn in a good company. Join in!
 
-> **ATTENTION!** The club is currently on pause! Enjoy your summer and stay tuned for the news!
 
 **How it works**: 
-- Read a chapter from the list. 
+- Work through a chapter from the list. 
 - Jump on a call.
 - Listen to me talk over some slides or present yourself (pretty pretty pretty please!)
 - Take part in the discussion and learn  something.
-- Slides will be uploaded to this repo, recording uploaded to Youtube
-- **Join the chat for important announcements and discussion:** [Discord](https://discord.gg/dsXKHF8FQZ), [Telegram](https://t.me/+bleQ2wfB4DBjMGZk) (anouncements will be duplicated)
+- **Join the chat for important announcements and discussion:** [Telegram](https://t.me/+bleQ2wfB4DBjMGZk)
 
 
 **Table of contents:** 
 
 - [Welcome to Little ML book club. We are reading ML books and papers. Together!](#welcome-to-little-ml-book-club-we-are-reading-ml-books-and-papers-together)
   - [What we are reading](#what-we-are-reading)
-    - [The Smol Training Playbook: The Secrets to Building World-Class LLMs](#the-smol-training-playbook-the-secrets-to-building-world-class-llms)
+    - [CS336: Language Modeling from Scratch](#cs336-language-modeling-from-scratch)
   - [What we have read in the past](#what-we-have-read-in-the-past)
     - [The Ultra-Scale Playbook](#the-ultra-scale-playbook)
     - [Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems](#agentic-design-patterns-a-hands-on-guide-to-building-intelligent-systems)
@@ -25,24 +23,21 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 
 ## What we are reading
 
-### [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
+### [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)
 
-**Schedule:** every Tuesday, 18:00 (London time) - [Zoom](https://us06web.zoom.us/j/83386119027?pwd%3DC7HjrJsWlflDZaGroxoY2QfLqFn9Mq.1%26jst%3D2&sa=D&source=calendar&usd=2&usg=AOvVaw3ctXbbuT-SytJkANBcCsD9)
+**Schedule:** every Saturday, 11:00 (London time) - [Google Meet](https://tel.meet/txp-iheb-pxa?pin=4943866166725)
 
-| Date | Topic | Presented by | Slides | Recording |
-|------|-------|--------------|--------|-----------|
-| 2 Apr, 2026 | Training Compass | @fxlrnrpt | [pdf](./smol_training_playbook/1_Training_Compass.pdf) | [youtube](https://youtu.be/Ly9kXopMVM0) |
-| 9 Apr, 2026 | Every Big Model Starts with a Small Ablation | @fxlrnrpt | [pdf](./smol_training_playbook/2_Every_Big_Model_Starts_with_a_Small_Ablation.pdf) | [youtube](https://www.youtube.com/watch?v=yRg4peU1jmc) |
-| 16 Apr, 2026 | Architecture: Attention | @fxlrnrpt | [pdf](./smol_training_playbook/3_Attention.pdf) | [youtube](https://youtu.be/1qgj7YqpPUY) |
-| 28 Apr, 2026 | Architecture: Embedding Sharing, Intro to Positional Encoding | @fxlrnrpt | [pdf](smol_training_playbook/4_Embedding_Sharing.pdf) | [youtube](https://www.youtube.com/watch?v=hzOP6zxg61k)  |
-| 12 May, 2026 | Positional Encoding Deep Dive and Long Context | @The0nix | [pdf](./smol_training_playbook/5_Positional_embeddings_long_context.pdf) | [youtube](https://youtu.be/biUZm-mqUDk) |
-| 9 Jun, 2026 | Improving Stability, Additional Considerations, Architecture: MoE, Hybrid Models, Tokenizer | TBD | | |
-| 23 Jun, 2026 | Optimizer and Training Hyperparameters | TBD | | |
-| 30 Jun, 2026 | The Art of Data Curation | TBD | | |
-| 7 Jul, 2026 | The Training Marathon | TBD | | |
-| 14 Jul, 2026 | Post-Training Compass, Evals, Tools, SFT | TBD | | |
-| 4 Aug, 2026 | Prefernce optimization, Going On-Policy and Beyond Supervised Labels | TBD | | |
-| 11 Aug, 2026 | Infrastructure | TBD | | |
+| Date | Topic | Presented By | Recording |
+|------|-------|--------------|-----------|
+| 31 Oct, 2026 | Lectures 1, 2: Overview, tokenization, PyTorch (einops), resource accounting (FLOPs, memory, arithmetic intensity) | @fxlrnrpt | |
+| 7 Nov, 2026 | Lectures 3, 4: Architectures, hyperparameters, Attention alternatives and mixture of experts | | |
+| 14 Nov, 2026 | Assignment 1 discussion. Lectures 5, 6: GPUs, TPUs, Kernels, Triton | | |
+| 21 Nov, 2026 | Lectures 7, 8: Parallelism | | |
+| 28 Nov, 2026 | Assignment 2 discussion. Lectures 9, 10: Scaling laws, Inference | | |
+| 5 Dec, 2026 | Assignment 3 discussion. Lectures 11, 12: Scaling laws, Evaluation | | |
+| 12 Dec, 2026 | Lectures 13, 14: Data | | |
+| 19 Dec, 2026 | Assignment 4 discussion. Lectures 15, 16: Mid/Post-training | | |
+| 2 Jan, 2027 | Assignment 5 discussion. Lectures 17, 19: Alignment, Guest lecture Dan Fu | | |
 
 ## What we have read in the past
 
