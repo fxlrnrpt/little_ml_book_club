@@ -23,9 +23,10 @@ Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than
 
 ## What we are reading
 
-### [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)
+### [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/) 
 
 **Schedule:** every Saturday, 11:00 (London time) - [Google Meet](https://tel.meet/txp-iheb-pxa?pin=4943866166725)
+**Make sure** to follow [this playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV) on Youtube as there is another one for the previous year.
 
 | Date | Topic | Presented By | Recording |
 |------|-------|--------------|-----------|
