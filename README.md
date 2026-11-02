@@ -1,46 +1,49 @@
-# Welcome to Little ML book club. We are reading ML books and papers. Together!
+# Welcome to Little ML book club. We are reading ML books, papers, and doing courses. Together!
 
 Hello fellow ML geeks, my name is Andrey and I know about ML much-much less than I want to. While I do not think I will ever reach the level of "finally good enough", I still want to learn in a good company. Join in!
 
 
-**How it works**: 
-- Work through a chapter from the list. 
-- Jump on a call.
-- Listen to me talk over some slides or present yourself (pretty pretty pretty please!)
-- Take part in the discussion and learn  something.
-- **Join the chat for important announcements and discussion:** [Telegram](https://t.me/+bleQ2wfB4DBjMGZk)
-
-
 **Table of contents:** 
 
-- [Welcome to Little ML book club. We are reading ML books and papers. Together!](#welcome-to-little-ml-book-club-we-are-reading-ml-books-and-papers-together)
-  - [What we are reading](#what-we-are-reading)
+- [Welcome to Little ML book club. We are reading ML books, papers, and doing courses. Together!](#welcome-to-little-ml-book-club-we-are-reading-ml-books-papers-and-doing-courses-together)
+  - [What we are working on](#what-we-are-working-on)
     - [CS336: Language Modeling from Scratch](#cs336-language-modeling-from-scratch)
-  - [What we have read in the past](#what-we-have-read-in-the-past)
+  - [What we did in the past](#what-we-did-in-the-past)
     - [The Ultra-Scale Playbook](#the-ultra-scale-playbook)
     - [Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems](#agentic-design-patterns-a-hands-on-guide-to-building-intelligent-systems)
 
 
-## What we are reading
+## What we are working on
 
 ### [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/) 
+
+**How it works**: 
+- **Join the chat for important announcements and discussion:** [Telegram](https://t.me/+bleQ2wfB4DBjMGZk)
+- Work through a chapter from the list (lecture calls are optional, we can skip them if noone wants to present, assignment discussion calls are mandatory). 
+- Jump on a call.
+- Take part in the discussion and learn something.
 
 **Schedule:** every Saturday, 11:00 (London time) - [Google Meet](https://tel.meet/txp-iheb-pxa?pin=4943866166725)
 **Make sure** to follow [this playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV) on Youtube as there is another one for the previous year.
 
-| Date | Topic | Presented By | Recording |
-|------|-------|--------------|-----------|
+| Date | Topic | Led By | Recording |
+|------|-------|--------|-----------|
 | 31 Oct, 2026 | Lectures 1, 2: Overview, tokenization, PyTorch (einops), resource accounting (FLOPs, memory, arithmetic intensity) | @fxlrnrpt | |
 | 7 Nov, 2026 | Lectures 3, 4: Architectures, hyperparameters, Attention alternatives and mixture of experts | | |
-| 14 Nov, 2026 | Assignment 1 discussion. Lectures 5, 6: GPUs, TPUs, Kernels, Triton | | |
-| 21 Nov, 2026 | Lectures 7, 8: Parallelism | | |
-| 28 Nov, 2026 | Assignment 2 discussion. Lectures 9, 10: Scaling laws, Inference | | |
-| 5 Dec, 2026 | Assignment 3 discussion. Lectures 11, 12: Scaling laws, Evaluation | | |
-| 12 Dec, 2026 | Lectures 13, 14: Data | | |
-| 19 Dec, 2026 | Assignment 4 discussion. Lectures 15, 16: Mid/Post-training | | |
-| 2 Jan, 2027 | Assignment 5 discussion. Lectures 17, 19: Alignment, Guest lecture Dan Fu | | |
+| 14 Nov, 2026 | Assignment 1 discussion | | |
+| 21 Nov, 2026 | Lectures 5, 6: GPUs, TPUs, Kernels, Triton | | |
+| 28 Nov, 2026 | Lectures 7, 8: Parallelism | | |
+| 5 Dec, 2026 | Assignment 2 discussion | | |
+| 12 Dec, 2026 | Lectures 9, 10: Scaling laws, Inference | | |
+| 19 Dec, 2026 | Assignment 3 discussion  | | |
+| 2 Jan, 2027 | Lectures 11, 12: Scaling laws, Evaluation | | |
+| 9 Jan, 2027 | Lectures 13, 14: Data. Assignment 5 discussion | | |
+| 16 Jan, 2027 | Assignment 4 discussion | | |
+| 23 Jan, 2027 | Lectures 15, 16: Mid/Post-training | | |
+| 30 Jan, 2027 | Lectures 17, 19: Alignment, Guest lecture Dan Fu | | |
+| 6 Feb, 2027 | Assignment 5 discussion | | |
 
-## What we have read in the past
+## What we did in the past
 
 ### [The Ultra-Scale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
 
